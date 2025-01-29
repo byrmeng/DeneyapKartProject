@@ -2,7 +2,7 @@
 #include <WiFiClient.h>
 #include <WiFiAP.h>
 
-const char *ssid = "DeneyapKart1Av2Led";
+const char *ssid = "DeneyapKart1Av2RGBLed";
 const char *password = "";
 
 WiFiServer server(80);
