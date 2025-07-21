@@ -1,7 +1,7 @@
 # DeneyapKartProject
 
-1) Deneyap Kart 1A v2 ile Wi-Fi Üzerinden Lokal Host ile Dahili RGB LED Kontrolü!
-   Bu uygulama ile bilgisayarınız, telefonunuz veya tabletiniz üzerinden tarayıcı aracılığıyla Deneyap Kart 1A v2’ye bağlanarak RGB LED’in renklerini gerçek zamanlı olarak değiştirebilirsiniz.
+Deneyap Kart 1A v2 ile Wi-Fi Üzerinden Lokal Host ile Dahili RGB LED Kontrolü!
+Bu uygulama ile bilgisayarınız, telefonunuz veya tabletiniz üzerinden tarayıcı aracılığıyla Deneyap Kart 1A v2’ye bağlanarak RGB LED’in renklerini gerçek zamanlı olarak değiştirebilirsiniz.
 
 1️⃣ Deneyap Kart 1A v2’yi programlayarak Wi-Fi sunucusu olarak çalışmasını sağlayın.
 
